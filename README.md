@@ -4,11 +4,9 @@ A Flutter task management mobile application.
 
 # Installation & Build
 
-1- Follow the [installation docs](https://docs.flutter.dev/get-started/install) to install Flutter on your machine
+1- Run `Flutter pub get` to get dependencies
 
-2- Run `Flutter pub get` to get dependencies
-
-3- Build and run the application `flutter run lib/main.dart` 
+2- Build and run the application `flutter run lib/main.dart` 
 
 
 # Features
