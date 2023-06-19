@@ -1,25 +1,23 @@
 class StringConstants {
   static const String appTitle = 'Task Manager';
-  static const String welcomeTitle = 'Welcome!';
-  static const String greatDay =
-      'I wish you the best overcomming your challenges';
-  static const String taskTitleFieldLabel = 'Title';
-  static const String isUrgentTaskFieldLabel = 'Is this an urgent task?';
-  static const String taskTitleFieldHint = 'Type task title';
-  static const String taskDescriptionFieldLabel = 'Description';
-  static const String taskDescriptionFieldHint = 'Type task description';
-  static const String addButtonLabel = 'Add';
-  static const String updateButtonLabel = 'Save';
-  static const String taskTitleFieldError = 'Please enter the task title';
-  static const String taskDescriptionFieldError =
-      'Please enter the task description';
-  static const String yourTasksTitle = 'Your tasks';
-  static const String tasksLabel = 'Tasks';
-  static const String urgentTaskLabel = 'Urgent';
-  static const String editTaskMenuItemLabel = 'Edit';
-  static const String deleteTaskMenuItemLabel = 'Delete';
-  static const String taskAddedSuccufully = 'Task added successfully';
-  static const String taskEditedSuccufully = 'Task edited successfully';
-  static const String taskDeletedSuccufully = 'Task deleted successfully';
-  static const String emptyTasksLabel = 'Yay! you have no tasks';
+  static const String welcomeTitle = 'Selamat Datang!';
+  static const String greatDay = 'Project Plan untuk Tugas Kelompok';
+  static const String taskTitleFieldLabel = 'Judul';
+  static const String isUrgentTaskFieldLabel = 'Apakah ini kartu penting?';
+  static const String taskTitleFieldHint = 'Tuliskan judul kartu';
+  static const String taskDescriptionFieldLabel = 'Deskripsi';
+  static const String taskDescriptionFieldHint = 'Ketikan Deskripsi';
+  static const String addButtonLabel = 'Tambah';
+  static const String updateButtonLabel = 'Simpan';
+  static const String taskTitleFieldError = 'Masukan judul Kartu';
+  static const String taskDescriptionFieldError ='Masukan Deskripsi Kartu';
+  static const String yourTasksTitle = 'Kartu Tugasmu';
+  static const String tasksLabel = 'Kartu Tugas';
+  static const String urgentTaskLabel = 'Penting';
+  static const String editTaskMenuItemLabel = 'Ubah';
+  static const String deleteTaskMenuItemLabel = 'Hapus';
+  static const String taskAddedSuccufully = 'Kartu berhasil ditambahkan';
+  static const String taskEditedSuccufully = 'Kartu berhasil diubah';
+  static const String taskDeletedSuccufully = 'Kartu berhasil dihapus';
+  static const String emptyTasksLabel = 'Kamu tidak ada kerjaan.';
 }
