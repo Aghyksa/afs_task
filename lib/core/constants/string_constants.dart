@@ -19,5 +19,5 @@ class StringConstants {
   static const String taskAddedSuccufully = 'Kartu berhasil ditambahkan';
   static const String taskEditedSuccufully = 'Kartu berhasil diubah';
   static const String taskDeletedSuccufully = 'Kartu berhasil dihapus';
-  static const String emptyTasksLabel = 'Kamu tidak ada kerjaan.';
+  static const String emptyTasksLabel = 'Tidak ada kerjaan.';
 }
